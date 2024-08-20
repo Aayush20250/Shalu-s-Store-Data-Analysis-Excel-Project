@@ -25,5 +25,7 @@
 **Contributing Guidelines:**
 ➡️ If you wish to contribute to this project, please fork the repository and submit a pull request. Before submitting, ensure your changes are well-documented and adhere to the project's coding style guide.
 
-  You can also include additional information in your README.md file, such as screenshots of your dashboard, links to related resources, and a list of frequently asked questions.
+
+
+You can also include additional information in your README.md file, such as screenshots of your dashboard, links to related resources, and a list of frequently asked questions.
 
